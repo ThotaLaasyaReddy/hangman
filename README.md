@@ -1,6 +1,6 @@
 # Hangman Game 🎮
 
-Hangman classic word-guessing game for two or more players.one player thinks of a word and the other tries to guess it by suggesting letters within a certain number of guesses. Originally a pen and paper game, but this is a virtual version, where players try to guess the word before running out of attempts.
+Hangman is a classic word-guessing game for two or more players.one player thinks of a word and the other tries to guess it by suggesting letters within a certain number of guesses. Originally a pen and paper game, but this is a virtual version, where players try to guess the word before running out of attempts.
 
 ## Table of Contents
 - [About](#about)

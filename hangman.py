@@ -15,7 +15,17 @@ def main():
     global already_guessed
     global length
     global play_game
-    words_to_guess = ["unanimous", "persuade", "feracious", "similar", "comment", "student", "encourage", "rhyme", "damage", "plants"]
+    words_to_guess =["unanimous", "persuade", "feracious", "similar", "comment", "student", 
+                      "encourage", "rhyme", "damage", "plants","abruptly","absurd","affix",
+                      "avenue","awkward","azure","beekeeper","blizzard","bookworm","boxcar",
+                      "boxful","buffalo","buzzing","buzzwords","croquet","cycle","equip",
+                      "fixable","fluffiness","funny","galaxy","gossip","hyphen","icebox",
+                      "injury","ivory","jackpot","jaundice","jawbreaker","jigsaw","jogging",
+                      "joking","keyhole","kilobyte","kiwifruit","larynx","lengths","lucky",
+                      "luxury","matrix","megahertz","microwave","mystify","oxidize","oxygen",
+                      "pajama","pixel","pneumonia","puppy","puzzling","quartz","queue","quizzes",
+                      "quorum","rickshaw","scratch","strength","syndrome","transcript","voyeurism",
+                      "xylophone","yachtsman","youthful","yummy","zigzag","zodiac","zombie"]
     word = random.choice(words_to_guess)
     length = len(word)
     count = 0

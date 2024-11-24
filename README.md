@@ -19,7 +19,6 @@ Hangman is a popular word-guessing game. The player guesses letters in an attemp
 - Single-player mode.
 - Predefined or randomly selected word lists.
 - ASCII art for the hangman display.
-- Configurable difficulty levels.
 - Simple and intuitive user interface.
 
 
